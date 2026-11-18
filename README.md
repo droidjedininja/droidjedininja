@@ -8,3 +8,5 @@
 droidjedininja/droidjedininja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Copyright © 2026 Freddie. All rights reserved.
